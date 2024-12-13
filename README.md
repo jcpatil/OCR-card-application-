@@ -10,7 +10,7 @@ This is a Python-based graphical user interface (GUI) application for Optical Ch
 
 ## Repository Name
 
-**VMukti-OCR-Card-Application**
+**OCR-Card-Application**
 
 ---
 
