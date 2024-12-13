@@ -44,7 +44,7 @@ pip install paddleocr==2.6.0.1 opencv-python-headless pillow pyttsx3
 
 ```bash
 git clone <repository_url>
-cd VMukti-OCR-Card-Application
+cd OCR-Card-Application
 ```
 
 2. Run the application:
